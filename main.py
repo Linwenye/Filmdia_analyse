@@ -1,0 +1,1 @@
+import trailer_click.get_click
